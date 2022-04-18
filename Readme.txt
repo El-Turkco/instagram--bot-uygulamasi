@@ -1,0 +1,1 @@
+Windows işletim sistemi =Chromedriver.exe indirip proje içine import ediyoruz.
